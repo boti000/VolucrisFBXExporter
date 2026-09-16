@@ -5,13 +5,12 @@ Batch export meshes to FBX with presets and custom origins.
 ## Features
 
 - **Bundle Export** — merge multiple meshes into a single FBX, with a custom bundle name and the choice of a plain file or a dedicated export folder.
-- **Individual / Assets Export** — export each mesh as its own FBX file, with full control over naming, duplicate handling, and folder structure.
+- **Assets Export** — export each mesh as its own FBX file, with full control over naming, duplicate handling, and folder structure.
 - **Collection-based folder organization** — optionally mirror your Blender collection hierarchy into export folders, with editable custom folder names per collection.
 - **Configurable duplicate suffix** — including the option to export bare mesh names with no suffix at all.
 - **Per-object origin placement** — Median, Bottom Center, Top Center, or none.
-- **Roundtrip Preview** — dry-run your export before committing, with one-click cleanup to restore your scene. *(Experimental.)*
+- **Preview** — dry-run your export before committing, with one-click cleanup to restore your scene.
 - **Overwrite protection** — optionally have exports abort instead of silently replacing existing files.
-- **Verified exports** — checks that files are genuinely written to disk, not just "reported success."
 - **Bundled FBX preset** ("Default Volucris Export") plus full support for your own custom Blender FBX export presets.
 
 ## Installation
