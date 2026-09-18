@@ -15,7 +15,7 @@ Batch export meshes to FBX with presets and custom origins.
 
 ## Installation
 
-1. Download the latest `.zip` release from the [Releases page](../../releases) (or from this repository's code).
+1. Download the latest `.zip` release from the [Releases page](../../releases).
 2. In Blender, go to **Edit > Preferences > Get Extensions**.
 3. Click the dropdown arrow next to "Install from Disk" and select the downloaded `.zip`.
 4. Enable the extension if it isn't already.
